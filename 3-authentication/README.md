@@ -17,7 +17,7 @@ When a request comes in, we will grab a custom header, `x-robot-secret`, and whe
 ## The starting app
 
 We are starting from the app that was built in the previous module. You can either continue from the
-project your started in the previous module (recommended), or, if you're a bit behind or would like
+project your started in the previous module, or, if you're a bit behind or would like
 to start fresh, start from the project that is in this directory.
 
 If you use the app in this directory, note that we use Dex with docker-compose as the SSO identity
