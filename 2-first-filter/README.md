@@ -29,7 +29,7 @@ With the current setup of the app, you can log-in with:
 - Form login:
   - inanc / password
   - yagiz / password
-- Dex
+- or Dex:
   - admin@example.com / password
 
 ## Step 1: create and register a filter
